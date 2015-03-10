@@ -1,4 +1,5 @@
-print'MADE BY BEH CHUEN YANG:PROTECTED UNDER GNU GPL SO NO ONE CAN COPY AND PASS OFF AS THEIR OWN'
+print'MADE BY BEH CHUEN YANG:ALL RIGHTS RESERVED SO NO ONE CAN COPY AND PASS OFF AS THEIR OWN'
+print 'Made using Python.
 print 'DISCLAIMER: When looking at the code, please forgive the fact that Python ignores 0. As such I had to add 1 to every piece of String(A-E).Also, you can only run the program once before having to run it again.'
 a=int(raw_input('Enter the first digit.'))
 b=int(raw_input('Now enter the second.'))
