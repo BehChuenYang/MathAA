@@ -1,6 +1,6 @@
 Made by: Beh Chuen Yang                                                                         Protected by:GNU GPL v2.0
 1.	List down all the last letters used and write down the total number of last letters.
-Ans:11.A,B,C,D,E,U,V,X,Y,Z.
+Ans:10.A,B,C,D,E,U,V,X,Y,Z.
 2.	Find a possible set of values for the different weights. Show how you arrived at the answer.
 Weights:
 A=9
